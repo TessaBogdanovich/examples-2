@@ -3,9 +3,9 @@
 // маленькие буквы “к” заменить большими “К”,
 // а большие “С” маленькими “с”.
 // Ясна ли задача?'
-text = "— Я думаю, — сказал князь, улыбаясь, — что,";
+string text = "— Я думаю, — сказал князь, улыбаясь, — что,";
 
-string Replace(string text, char oldValue, char newValue);
+string Replace(string text, char oldValue, char newValue)
         {
             string result = string.Empty;
             int length = text.Length;
@@ -17,3 +17,10 @@ string Replace(string text, char oldValue, char newValue);
             return result;
         }  
 string newText = Replace(text, ' ', '|');
+Console.WriteLine(newText);
+Console.WriteLine();
+newText = Replace(text, 'к', 'К');
+Console.WriteLine(newText);
+newText = Replace(text, 'с', 'С');
+Console.WriteLine(newText);
+

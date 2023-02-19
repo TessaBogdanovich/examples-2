@@ -3,3 +3,13 @@ C:\Users\top-IT\examples\train_task\obj\Debug\net6.0\train_task.GeneratedMSBuild
 C:\Users\top-IT\examples\train_task\obj\Debug\net6.0\train_task.AssemblyInfoInputs.cache
 C:\Users\top-IT\examples\train_task\obj\Debug\net6.0\train_task.AssemblyInfo.cs
 C:\Users\top-IT\examples\train_task\obj\Debug\net6.0\train_task.csproj.CoreCompileInputs.cache
+C:\Users\top-IT\examples\train_task\bin\Debug\net6.0\train_task.exe
+C:\Users\top-IT\examples\train_task\bin\Debug\net6.0\train_task.deps.json
+C:\Users\top-IT\examples\train_task\bin\Debug\net6.0\train_task.runtimeconfig.json
+C:\Users\top-IT\examples\train_task\bin\Debug\net6.0\train_task.dll
+C:\Users\top-IT\examples\train_task\bin\Debug\net6.0\train_task.pdb
+C:\Users\top-IT\examples\train_task\obj\Debug\net6.0\train_task.dll
+C:\Users\top-IT\examples\train_task\obj\Debug\net6.0\refint\train_task.dll
+C:\Users\top-IT\examples\train_task\obj\Debug\net6.0\train_task.pdb
+C:\Users\top-IT\examples\train_task\obj\Debug\net6.0\train_task.genruntimeconfig.cache
+C:\Users\top-IT\examples\train_task\obj\Debug\net6.0\ref\train_task.dll
