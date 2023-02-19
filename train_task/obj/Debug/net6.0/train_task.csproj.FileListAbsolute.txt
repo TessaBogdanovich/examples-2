@@ -1,0 +1,5 @@
+C:\Users\top-IT\examples\train_task\obj\Debug\net6.0\train_task.csproj.AssemblyReference.cache
+C:\Users\top-IT\examples\train_task\obj\Debug\net6.0\train_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\top-IT\examples\train_task\obj\Debug\net6.0\train_task.AssemblyInfoInputs.cache
+C:\Users\top-IT\examples\train_task\obj\Debug\net6.0\train_task.AssemblyInfo.cs
+C:\Users\top-IT\examples\train_task\obj\Debug\net6.0\train_task.csproj.CoreCompileInputs.cache
