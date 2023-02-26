@@ -1,0 +1,15 @@
+C:\Users\top-IT\examples\ex19_Factorial\bin\Debug\net6.0\ex19_Factorial.exe
+C:\Users\top-IT\examples\ex19_Factorial\bin\Debug\net6.0\ex19_Factorial.deps.json
+C:\Users\top-IT\examples\ex19_Factorial\bin\Debug\net6.0\ex19_Factorial.runtimeconfig.json
+C:\Users\top-IT\examples\ex19_Factorial\bin\Debug\net6.0\ex19_Factorial.dll
+C:\Users\top-IT\examples\ex19_Factorial\bin\Debug\net6.0\ex19_Factorial.pdb
+C:\Users\top-IT\examples\ex19_Factorial\obj\Debug\net6.0\ex19_Factorial.csproj.AssemblyReference.cache
+C:\Users\top-IT\examples\ex19_Factorial\obj\Debug\net6.0\ex19_Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\top-IT\examples\ex19_Factorial\obj\Debug\net6.0\ex19_Factorial.AssemblyInfoInputs.cache
+C:\Users\top-IT\examples\ex19_Factorial\obj\Debug\net6.0\ex19_Factorial.AssemblyInfo.cs
+C:\Users\top-IT\examples\ex19_Factorial\obj\Debug\net6.0\ex19_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\top-IT\examples\ex19_Factorial\obj\Debug\net6.0\ex19_Factorial.dll
+C:\Users\top-IT\examples\ex19_Factorial\obj\Debug\net6.0\refint\ex19_Factorial.dll
+C:\Users\top-IT\examples\ex19_Factorial\obj\Debug\net6.0\ex19_Factorial.pdb
+C:\Users\top-IT\examples\ex19_Factorial\obj\Debug\net6.0\ex19_Factorial.genruntimeconfig.cache
+C:\Users\top-IT\examples\ex19_Factorial\obj\Debug\net6.0\ref\ex19_Factorial.dll

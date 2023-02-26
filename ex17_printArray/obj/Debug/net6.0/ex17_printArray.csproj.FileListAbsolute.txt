@@ -1,0 +1,15 @@
+C:\Users\top-IT\examples\ex17_printArray\obj\Debug\net6.0\ex17_printArray.csproj.AssemblyReference.cache
+C:\Users\top-IT\examples\ex17_printArray\obj\Debug\net6.0\ex17_printArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\top-IT\examples\ex17_printArray\obj\Debug\net6.0\ex17_printArray.AssemblyInfoInputs.cache
+C:\Users\top-IT\examples\ex17_printArray\obj\Debug\net6.0\ex17_printArray.AssemblyInfo.cs
+C:\Users\top-IT\examples\ex17_printArray\obj\Debug\net6.0\ex17_printArray.csproj.CoreCompileInputs.cache
+C:\Users\top-IT\examples\ex17_printArray\bin\Debug\net6.0\ex17_printArray.exe
+C:\Users\top-IT\examples\ex17_printArray\bin\Debug\net6.0\ex17_printArray.deps.json
+C:\Users\top-IT\examples\ex17_printArray\bin\Debug\net6.0\ex17_printArray.runtimeconfig.json
+C:\Users\top-IT\examples\ex17_printArray\bin\Debug\net6.0\ex17_printArray.dll
+C:\Users\top-IT\examples\ex17_printArray\bin\Debug\net6.0\ex17_printArray.pdb
+C:\Users\top-IT\examples\ex17_printArray\obj\Debug\net6.0\ex17_printArray.dll
+C:\Users\top-IT\examples\ex17_printArray\obj\Debug\net6.0\refint\ex17_printArray.dll
+C:\Users\top-IT\examples\ex17_printArray\obj\Debug\net6.0\ex17_printArray.pdb
+C:\Users\top-IT\examples\ex17_printArray\obj\Debug\net6.0\ex17_printArray.genruntimeconfig.cache
+C:\Users\top-IT\examples\ex17_printArray\obj\Debug\net6.0\ref\ex17_printArray.dll

@@ -1,0 +1,15 @@
+C:\Users\top-IT\examples\ex16_table\bin\Debug\net6.0\ex16_table.exe
+C:\Users\top-IT\examples\ex16_table\bin\Debug\net6.0\ex16_table.deps.json
+C:\Users\top-IT\examples\ex16_table\bin\Debug\net6.0\ex16_table.runtimeconfig.json
+C:\Users\top-IT\examples\ex16_table\bin\Debug\net6.0\ex16_table.dll
+C:\Users\top-IT\examples\ex16_table\bin\Debug\net6.0\ex16_table.pdb
+C:\Users\top-IT\examples\ex16_table\obj\Debug\net6.0\ex16_table.csproj.AssemblyReference.cache
+C:\Users\top-IT\examples\ex16_table\obj\Debug\net6.0\ex16_table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\top-IT\examples\ex16_table\obj\Debug\net6.0\ex16_table.AssemblyInfoInputs.cache
+C:\Users\top-IT\examples\ex16_table\obj\Debug\net6.0\ex16_table.AssemblyInfo.cs
+C:\Users\top-IT\examples\ex16_table\obj\Debug\net6.0\ex16_table.csproj.CoreCompileInputs.cache
+C:\Users\top-IT\examples\ex16_table\obj\Debug\net6.0\ex16_table.dll
+C:\Users\top-IT\examples\ex16_table\obj\Debug\net6.0\refint\ex16_table.dll
+C:\Users\top-IT\examples\ex16_table\obj\Debug\net6.0\ex16_table.pdb
+C:\Users\top-IT\examples\ex16_table\obj\Debug\net6.0\ex16_table.genruntimeconfig.cache
+C:\Users\top-IT\examples\ex16_table\obj\Debug\net6.0\ref\ex16_table.dll

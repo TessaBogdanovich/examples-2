@@ -1,0 +1,5 @@
+C:\Users\top-IT\examples\ex18_Pic\obj\Debug\net6.0\ex18_Pic.csproj.AssemblyReference.cache
+C:\Users\top-IT\examples\ex18_Pic\obj\Debug\net6.0\ex18_Pic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\top-IT\examples\ex18_Pic\obj\Debug\net6.0\ex18_Pic.AssemblyInfoInputs.cache
+C:\Users\top-IT\examples\ex18_Pic\obj\Debug\net6.0\ex18_Pic.AssemblyInfo.cs
+C:\Users\top-IT\examples\ex18_Pic\obj\Debug\net6.0\ex18_Pic.csproj.CoreCompileInputs.cache
